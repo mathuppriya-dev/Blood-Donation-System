@@ -157,7 +157,7 @@ http://localhost:8080/BloodLink
 > Add your screenshots inside a `screenshots/` folder
 
 ```md
-![Login](./screenshots/login.jpg)
+![Login](./login.jpg)
 ![Dashboard](./screenshots/d.dashboard.jpg)
 ![Community](./screenshots/community.jpg)
 ![Booking](./screenshots/booking.jpg)
