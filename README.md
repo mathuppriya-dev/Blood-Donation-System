@@ -157,9 +157,20 @@ http://localhost:8080/BloodLink
 > Add your screenshots inside a `screenshots/` folder
 
 ```md
-![Login](./screenshots/login.png)
-![Dashboard](./screenshots/dashboard.png)
-![Inventory](./screenshots/inventory.png)
+![Login](./screenshots/login.jpg)
+![Dashboard](./screenshots/d.dashboard.jpg)
+![Community](./screenshots/community.jpg)
+![Booking](./screenshots/booking.jpg)
+![Donar relation](./screenshots/donar relation.jpg)
+![Eligibility](./screenshots/eligibility.jpg)
+![Feedback form](./screenshots/feedback form.jpg)
+![Feedback](./screenshots/feedback.jpg)
+![Inventory](./screenshots/inventary.jpg)
+![Manager Dashboard](./screenshots/m.dashboard.jpg)
+![Report](./screenshots/report.jpg)
+![Submit](./screenshots/submit.jpg)
+![User Management](./screenshots/user management.jpg)
+
 ```
 
 ---
@@ -176,8 +187,8 @@ http://localhost:8080/BloodLink
 
 ## 👥 Team Members
 
+* Rajin Manokaran
 * Thanushi Ganesh
-* Naguleswaran Mathuppriya
 * K. Thamilchudar
 * P. Jathusanan
 * S. Sivaganka
