@@ -156,22 +156,33 @@ http://localhost:8080/BloodLink
 
 > Add your screenshots inside a `screenshots/` folder
 
-```md
 ## 📸 Screenshots
 
+### 🔐 Login
 ![Login](./screenshots/login.jpg)
+
+### 📊 Dashboards
 ![Donor Dashboard](./screenshots/d.dashboard.jpg)
 ![Manager Dashboard](./screenshots/m.dashboard.jpg)
+
+### 📦 Core Features
 ![Community](./screenshots/community.jpg)
 ![Booking](./screenshots/booking.jpg)
 ![Eligibility](./screenshots/eligibility.jpg)
+
+### 🏥 Management
 ![Inventory](./screenshots/inventory.jpg)
 ![Donor Relation](./screenshots/donar-relation.jpg)
+
+### 💬 Feedback System
 ![Feedback](./screenshots/feedback.jpg)
 ![Feedback Form](./screenshots/feedback-form.jpg)
+
+### 📑 Reports
 ![Report](./screenshots/report.jpg)
+
+### ➕ Additional
 ![Submit](./screenshots/submit.jpg)
-```
 
 ---
 
